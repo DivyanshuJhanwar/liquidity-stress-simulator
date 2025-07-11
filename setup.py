@@ -20,7 +20,13 @@ setup(
     name="treasury_forecasting",
     version="0.1",
     packages=find_packages(),
-    install_requires= get_requirements("requirements.txt"),
+    install_requires=get_requirements("requirements.txt"),
     author="Divyanshu",
     description="ML-powered forecasting and liquidity optimization for treasury ops",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Intended Audience :: Financial Analysts",
+        "Topic :: Scientific/Engineering :: Financial"
+    ],
 )
