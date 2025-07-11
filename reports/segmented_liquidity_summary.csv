@@ -1,0 +1,1025 @@
+charter_class,asset_tier,count,mean,min
+Alliance Bank,Under $250M,0,,
+Alliance Bank,$250M–$500M,0,,
+Alliance Bank,$500M–$1B,0,,
+Alliance Bank,Over $1B,4,0.1283178889873795,0.1179576222885562
+American Bank & Trust,Under $250M,0,,
+American Bank & Trust,$250M–$500M,0,,
+American Bank & Trust,$500M–$1B,0,,
+American Bank & Trust,Over $1B,4,0.0377101085662365,0.016005646687538
+American Exchange Bank,Under $250M,0,,
+American Exchange Bank,$250M–$500M,0,,
+American Exchange Bank,$500M–$1B,0,,
+American Exchange Bank,Over $1B,4,0.048645503183945546,0.0287733881229464
+American Trust and Savings Bank,Under $250M,0,,
+American Trust and Savings Bank,$250M–$500M,0,,
+American Trust and Savings Bank,$500M–$1B,0,,
+American Trust and Savings Bank,Over $1B,4,0.2281712502043193,0.2118355153925034
+Anderson State Bank,Under $250M,0,,
+Anderson State Bank,$250M–$500M,0,,
+Anderson State Bank,$500M–$1B,0,,
+Anderson State Bank,Over $1B,4,0.12978641223048576,0.11535081455843
+Apex Banking Company of Georgia,Under $250M,0,,
+Apex Banking Company of Georgia,$250M–$500M,0,,
+Apex Banking Company of Georgia,$500M–$1B,0,,
+Apex Banking Company of Georgia,Over $1B,4,0.03488466830068575,0.0263943936804763
+Arcadian Bank,Under $250M,0,,
+Arcadian Bank,$250M–$500M,0,,
+Arcadian Bank,$500M–$1B,0,,
+Arcadian Bank,Over $1B,4,0.03541130906884308,0.0295017275089363
+Ashton State Bank,Under $250M,0,,
+Ashton State Bank,$250M–$500M,0,,
+Ashton State Bank,$500M–$1B,0,,
+Ashton State Bank,Over $1B,4,0.0254209156639378,0.0220451090372677
+Avana Bank,Under $250M,0,,
+Avana Bank,$250M–$500M,0,,
+Avana Bank,$500M–$1B,0,,
+Avana Bank,Over $1B,4,0.6228434488283126,0.5352026612655921
+BANKWEST OF KANSAS,Under $250M,0,,
+BANKWEST OF KANSAS,$250M–$500M,0,,
+BANKWEST OF KANSAS,$500M–$1B,0,,
+BANKWEST OF KANSAS,Over $1B,4,0.2978651963517609,0.2743619290529543
+BTC Bank,Under $250M,0,,
+BTC Bank,$250M–$500M,0,,
+BTC Bank,$500M–$1B,0,,
+BTC Bank,Over $1B,4,0.029789939111487876,0.0267764572959833
+Bank & Trust Company,Under $250M,0,,
+Bank & Trust Company,$250M–$500M,0,,
+Bank & Trust Company,$500M–$1B,0,,
+Bank & Trust Company,Over $1B,4,0.043350800892728324,0.0410315798446103
+Bank Michigan,Under $250M,0,,
+Bank Michigan,$250M–$500M,0,,
+Bank Michigan,$500M–$1B,0,,
+Bank Michigan,Over $1B,4,0.1298402422532848,0.1009403984904882
+Bank OZK,Under $250M,0,,
+Bank OZK,$250M–$500M,0,,
+Bank OZK,$500M–$1B,0,,
+Bank OZK,Over $1B,4,0.06599610594916025,0.0491106379311827
+Bank of Cave City,Under $250M,0,,
+Bank of Cave City,$250M–$500M,0,,
+Bank of Cave City,$500M–$1B,0,,
+Bank of Cave City,Over $1B,4,0.027164709514859074,0.0229752804133326
+Bank of Chestnut,Under $250M,0,,
+Bank of Chestnut,$250M–$500M,0,,
+Bank of Chestnut,$500M–$1B,0,,
+Bank of Chestnut,Over $1B,1,0.0346545711748487,0.0346545711748487
+Bank of Commerce & Trust Co.,Under $250M,0,,
+Bank of Commerce & Trust Co.,$250M–$500M,0,,
+Bank of Commerce & Trust Co.,$500M–$1B,0,,
+Bank of Commerce & Trust Co.,Over $1B,4,0.05816037513632773,0.0269069754213535
+Bank of Franklin,Under $250M,0,,
+Bank of Franklin,$250M–$500M,0,,
+Bank of Franklin,$500M–$1B,0,,
+Bank of Franklin,Over $1B,4,0.03817099653149255,0.0228295303232053
+Bank of Halls,Under $250M,0,,
+Bank of Halls,$250M–$500M,0,,
+Bank of Halls,$500M–$1B,0,,
+Bank of Halls,Over $1B,4,0.21869589560653338,0.2024567304750907
+Bank of Hancock County,Under $250M,0,,
+Bank of Hancock County,$250M–$500M,0,,
+Bank of Hancock County,$500M–$1B,0,,
+Bank of Hancock County,Over $1B,3,0.07175462621518984,0.0641976310310755
+Bank of Hydro,Under $250M,0,,
+Bank of Hydro,$250M–$500M,0,,
+Bank of Hydro,$500M–$1B,0,,
+Bank of Hydro,Over $1B,4,0.023011078133053198,0.0191779076142107
+Bank of Milton,Under $250M,0,,
+Bank of Milton,$250M–$500M,0,,
+Bank of Milton,$500M–$1B,0,,
+Bank of Milton,Over $1B,4,0.04257140118253003,0.0300564196565453
+Bank of New Cambria,Under $250M,0,,
+Bank of New Cambria,$250M–$500M,0,,
+Bank of New Cambria,$500M–$1B,0,,
+Bank of New Cambria,Over $1B,4,0.2969924397826669,0.2764779649852846
+Bank of Salem,Under $250M,0,,
+Bank of Salem,$250M–$500M,0,,
+Bank of Salem,$500M–$1B,0,,
+Bank of Salem,Over $1B,4,0.18272630340859308,0.1669789450887968
+Banner Banks,Under $250M,0,,
+Banner Banks,$250M–$500M,0,,
+Banner Banks,$500M–$1B,0,,
+Banner Banks,Over $1B,4,0.3422046755844426,0.3230643969133663
+Baybank,Under $250M,0,,
+Baybank,$250M–$500M,0,,
+Baybank,$500M–$1B,0,,
+Baybank,Over $1B,4,0.04972456869405183,0.034399884352131
+Bedford Loan & Deposit Bank,Under $250M,0,,
+Bedford Loan & Deposit Bank,$250M–$500M,0,,
+Bedford Loan & Deposit Bank,$500M–$1B,0,,
+Bedford Loan & Deposit Bank,Over $1B,4,0.02825767554232855,0.0253851779767716
+Bonanza Valley State Bank,Under $250M,0,,
+Bonanza Valley State Bank,$250M–$500M,0,,
+Bonanza Valley State Bank,$500M–$1B,0,,
+Bonanza Valley State Bank,Over $1B,4,0.0780652051189473,0.0592263219144563
+Bonduel State Bank,Under $250M,0,,
+Bonduel State Bank,$250M–$500M,0,,
+Bonduel State Bank,$500M–$1B,0,,
+Bonduel State Bank,Over $1B,4,0.1085690258739968,0.0718658998851574
+Buena Vista National Bank,Under $250M,0,,
+Buena Vista National Bank,$250M–$500M,0,,
+Buena Vista National Bank,$500M–$1B,0,,
+Buena Vista National Bank,Over $1B,4,0.10529674610224563,0.0600463768568981
+Builtwell Bank,Under $250M,0,,
+Builtwell Bank,$250M–$500M,0,,
+Builtwell Bank,$500M–$1B,0,,
+Builtwell Bank,Over $1B,4,0.2425335726048254,0.1756399855012021
+CLB The Community Bank,Under $250M,0,,
+CLB The Community Bank,$250M–$500M,0,,
+CLB The Community Bank,$500M–$1B,0,,
+CLB The Community Bank,Over $1B,4,0.10994620571922051,0.0931868281944152
+Cambridge State Bank,Under $250M,0,,
+Cambridge State Bank,$250M–$500M,0,,
+Cambridge State Bank,$500M–$1B,0,,
+Cambridge State Bank,Over $1B,4,0.18295288478870675,0.1379343823774644
+Camp Grove State Bank,Under $250M,0,,
+Camp Grove State Bank,$250M–$500M,0,,
+Camp Grove State Bank,$500M–$1B,0,,
+Camp Grove State Bank,Over $1B,4,0.09027702785677069,0.0647972818403164
+Campus State Bank,Under $250M,0,,
+Campus State Bank,$250M–$500M,0,,
+Campus State Bank,$500M–$1B,0,,
+Campus State Bank,Over $1B,4,0.19790334643020263,0.1758966398773647
+Cass Commercial Bank,Under $250M,0,,
+Cass Commercial Bank,$250M–$500M,0,,
+Cass Commercial Bank,$500M–$1B,0,,
+Cass Commercial Bank,Over $1B,4,0.20606130986814092,0.1308658606622804
+Centennial Bank,Under $250M,0,,
+Centennial Bank,$250M–$500M,0,,
+Centennial Bank,$500M–$1B,0,,
+Centennial Bank,Over $1B,4,0.0390391006748503,0.0272749035535938
+Center National Bank,Under $250M,0,,
+Center National Bank,$250M–$500M,0,,
+Center National Bank,$500M–$1B,0,,
+Center National Bank,Over $1B,4,0.11340224218574782,0.1006261167557994
+Central Savings Bank,Under $250M,0,,
+Central Savings Bank,$250M–$500M,0,,
+Central Savings Bank,$500M–$1B,0,,
+Central Savings Bank,Over $1B,4,0.09285147603354114,0.0503024296777327
+Central State Bank,Under $250M,0,,
+Central State Bank,$250M–$500M,0,,
+Central State Bank,$500M–$1B,0,,
+Central State Bank,Over $1B,4,0.03436737815809088,0.0082106197635665
+Chesterfield State Bank,Under $250M,0,,
+Chesterfield State Bank,$250M–$500M,0,,
+Chesterfield State Bank,$500M–$1B,0,,
+Chesterfield State Bank,Over $1B,4,0.10069967142897268,0.0827602046417346
+ChoiceOne Bank,Under $250M,0,,
+ChoiceOne Bank,$250M–$500M,0,,
+ChoiceOne Bank,$500M–$1B,0,,
+ChoiceOne Bank,Over $1B,4,0.03948708785869085,0.0266046029845452
+Citizens Bank & Trust Co.,Under $250M,0,,
+Citizens Bank & Trust Co.,$250M–$500M,0,,
+Citizens Bank & Trust Co.,$500M–$1B,0,,
+Citizens Bank & Trust Co.,Over $1B,4,0.0160352055430302,0.013367203256188
+Citizens Bank and Trust Company of Grainger County,Under $250M,0,,
+Citizens Bank and Trust Company of Grainger County,$250M–$500M,0,,
+Citizens Bank and Trust Company of Grainger County,$500M–$1B,0,,
+Citizens Bank and Trust Company of Grainger County,Over $1B,4,0.023941558834817626,0.0167272798080161
+Citizens Bank of Chatsworth,Under $250M,0,,
+Citizens Bank of Chatsworth,$250M–$500M,0,,
+Citizens Bank of Chatsworth,$500M–$1B,0,,
+Citizens Bank of Chatsworth,Over $1B,4,0.05465270337687848,0.0276913231533829
+Citizens Progressive Bank,Under $250M,0,,
+Citizens Progressive Bank,$250M–$500M,0,,
+Citizens Progressive Bank,$500M–$1B,0,,
+Citizens Progressive Bank,Over $1B,4,0.10781307740440957,0.079064240340155
+Citizens Savings Bank,Under $250M,0,,
+Citizens Savings Bank,$250M–$500M,0,,
+Citizens Savings Bank,$500M–$1B,0,,
+Citizens Savings Bank,Over $1B,4,0.059686616226265074,0.0341187089011717
+Citizens Savings Bank and Trust Company,Under $250M,0,,
+Citizens Savings Bank and Trust Company,$250M–$500M,0,,
+Citizens Savings Bank and Trust Company,$500M–$1B,0,,
+Citizens Savings Bank and Trust Company,Over $1B,4,0.09392965007216483,0.0658188455897527
+Citizens State Bank,Under $250M,0,,
+Citizens State Bank,$250M–$500M,0,,
+Citizens State Bank,$500M–$1B,0,,
+Citizens State Bank,Over $1B,4,0.044333463942159354,0.0220770595006486
+Citizens State Bank of Luling,Under $250M,0,,
+Citizens State Bank of Luling,$250M–$500M,0,,
+Citizens State Bank of Luling,$500M–$1B,0,,
+Citizens State Bank of Luling,Over $1B,4,0.09004811741148577,0.0821808653701175
+Citizens State Bank of Roseau,Under $250M,0,,
+Citizens State Bank of Roseau,$250M–$500M,0,,
+Citizens State Bank of Roseau,$500M–$1B,0,,
+Citizens State Bank of Roseau,Over $1B,4,0.03232768882947663,0.0245713110439829
+"Citizens State Bank, of Arlington",Under $250M,0,,
+"Citizens State Bank, of Arlington",$250M–$500M,0,,
+"Citizens State Bank, of Arlington",$500M–$1B,0,,
+"Citizens State Bank, of Arlington",Over $1B,4,0.12007254435799515,0.1071649541355
+Citizens and Farmers Bank,Under $250M,0,,
+Citizens and Farmers Bank,$250M–$500M,0,,
+Citizens and Farmers Bank,$500M–$1B,0,,
+Citizens and Farmers Bank,Over $1B,4,0.03659261624120195,0.030685901640302
+"Clare Bank, National Association",Under $250M,0,,
+"Clare Bank, National Association",$250M–$500M,0,,
+"Clare Bank, National Association",$500M–$1B,0,,
+"Clare Bank, National Association",Over $1B,4,0.02049647973812915,0.0149533126447454
+Clay County State Bank,Under $250M,0,,
+Clay County State Bank,$250M–$500M,0,,
+Clay County State Bank,$500M–$1B,0,,
+Clay County State Bank,Over $1B,4,0.24165098278432287,0.1899292766352963
+Commerce Bank,Under $250M,0,,
+Commerce Bank,$250M–$500M,0,,
+Commerce Bank,$500M–$1B,0,,
+Commerce Bank,Over $1B,4,0.055928080754181694,0.0403379234744002
+Commercial State Bank,Under $250M,0,,
+Commercial State Bank,$250M–$500M,0,,
+Commercial State Bank,$500M–$1B,0,,
+Commercial State Bank,Over $1B,4,0.12872449283956516,0.0908154859680658
+Community Bank,Under $250M,0,,
+Community Bank,$250M–$500M,0,,
+Community Bank,$500M–$1B,0,,
+Community Bank,Over $1B,4,0.07522830512407783,0.051013841998623
+"Community Development Bank, FSB",Under $250M,0,,
+"Community Development Bank, FSB",$250M–$500M,0,,
+"Community Development Bank, FSB",$500M–$1B,0,,
+"Community Development Bank, FSB",Over $1B,4,0.08806146694711163,0.0549598121777787
+Community First Bank,Under $250M,0,,
+Community First Bank,$250M–$500M,0,,
+Community First Bank,$500M–$1B,0,,
+Community First Bank,Over $1B,4,0.0795276013239518,0.0656054913483653
+Crossroads Bank,Under $250M,0,,
+Crossroads Bank,$250M–$500M,0,,
+Crossroads Bank,$500M–$1B,0,,
+Crossroads Bank,Over $1B,4,0.05126431991279683,0.0364284676664247
+Crowell State Bank,Under $250M,0,,
+Crowell State Bank,$250M–$500M,0,,
+Crowell State Bank,$500M–$1B,0,,
+Crowell State Bank,Over $1B,4,0.21542783259776174,0.1519714159573676
+"Cumberland Security Bank, Inc.",Under $250M,0,,
+"Cumberland Security Bank, Inc.",$250M–$500M,0,,
+"Cumberland Security Bank, Inc.",$500M–$1B,0,,
+"Cumberland Security Bank, Inc.",Over $1B,4,0.058778416643016376,0.0389141956981604
+Dewey Bank,Under $250M,0,,
+Dewey Bank,$250M–$500M,0,,
+Dewey Bank,$500M–$1B,0,,
+Dewey Bank,Over $1B,4,0.10579943694785973,0.0668457489639898
+Du Quoin State Bank,Under $250M,0,,
+Du Quoin State Bank,$250M–$500M,0,,
+Du Quoin State Bank,$500M–$1B,0,,
+Du Quoin State Bank,Over $1B,4,0.026725203294849974,0.0191908668520445
+Dundee Bank,Under $250M,0,,
+Dundee Bank,$250M–$500M,0,,
+Dundee Bank,$500M–$1B,0,,
+Dundee Bank,Over $1B,4,0.019190296807974523,0.0147720886385805
+ESB Bank,Under $250M,0,,
+ESB Bank,$250M–$500M,0,,
+ESB Bank,$500M–$1B,0,,
+ESB Bank,Over $1B,4,0.06378223402265848,0.0319717879693878
+Eagle Valley Bank,Under $250M,0,,
+Eagle Valley Bank,$250M–$500M,0,,
+Eagle Valley Bank,$500M–$1B,0,,
+Eagle Valley Bank,Over $1B,4,0.12025425859855712,0.1087981649116584
+Elgin State Bank,Under $250M,0,,
+Elgin State Bank,$250M–$500M,0,,
+Elgin State Bank,$500M–$1B,0,,
+Elgin State Bank,Over $1B,4,0.12168722409065325,0.1139882895903755
+Elysian Bank,Under $250M,0,,
+Elysian Bank,$250M–$500M,0,,
+Elysian Bank,$500M–$1B,0,,
+Elysian Bank,Over $1B,4,0.14767538046128278,0.1382753688169027
+Ergo Bank,Under $250M,0,,
+Ergo Bank,$250M–$500M,0,,
+Ergo Bank,$500M–$1B,0,,
+Ergo Bank,Over $1B,4,0.050921753199836724,0.0267056365514499
+"Exchange Bank and Trust Company, Natchitoches, Louisiana",Under $250M,0,,
+"Exchange Bank and Trust Company, Natchitoches, Louisiana",$250M–$500M,0,,
+"Exchange Bank and Trust Company, Natchitoches, Louisiana",$500M–$1B,0,,
+"Exchange Bank and Trust Company, Natchitoches, Louisiana",Over $1B,4,0.04055159535665122,0.0187393717392076
+Exchange State Bank,Under $250M,0,,
+Exchange State Bank,$250M–$500M,0,,
+Exchange State Bank,$500M–$1B,0,,
+Exchange State Bank,Over $1B,4,0.10933199752493206,0.0624956667798962
+"F & M Community Bank, National Association",Under $250M,0,,
+"F & M Community Bank, National Association",$250M–$500M,0,,
+"F & M Community Bank, National Association",$500M–$1B,0,,
+"F & M Community Bank, National Association",Over $1B,4,0.02829358841491595,0.0259303348550929
+FBT Bank & Mortgage,Under $250M,0,,
+FBT Bank & Mortgage,$250M–$500M,0,,
+FBT Bank & Mortgage,$500M–$1B,0,,
+FBT Bank & Mortgage,Over $1B,4,0.2301510011773971,0.2127034294855616
+FM Bank,Under $250M,0,,
+FM Bank,$250M–$500M,0,,
+FM Bank,$500M–$1B,0,,
+FM Bank,Over $1B,4,0.0682549346615542,0.0224956721291563
+FNBC Bank & Trust,Under $250M,0,,
+FNBC Bank & Trust,$250M–$500M,0,,
+FNBC Bank & Trust,$500M–$1B,0,,
+FNBC Bank & Trust,Over $1B,4,0.06392207358404997,0.057193395702025
+Farmers & Merchants Bank & Trust,Under $250M,0,,
+Farmers & Merchants Bank & Trust,$250M–$500M,0,,
+Farmers & Merchants Bank & Trust,$500M–$1B,0,,
+Farmers & Merchants Bank & Trust,Over $1B,4,0.024060405887937626,0.0189657529050242
+Farmers & Merchants Bank of Hutsonville,Under $250M,0,,
+Farmers & Merchants Bank of Hutsonville,$250M–$500M,0,,
+Farmers & Merchants Bank of Hutsonville,$500M–$1B,0,,
+Farmers & Merchants Bank of Hutsonville,Over $1B,4,0.2379725486169597,0.1925427335067349
+Farmers Bank and Trust Company,Under $250M,0,,
+Farmers Bank and Trust Company,$250M–$500M,0,,
+Farmers Bank and Trust Company,$500M–$1B,0,,
+Farmers Bank and Trust Company,Over $1B,4,0.0972020718844095,0.0686870157550829
+Farmers Savings Bank,Under $250M,0,,
+Farmers Savings Bank,$250M–$500M,0,,
+Farmers Savings Bank,$500M–$1B,0,,
+Farmers Savings Bank,Over $1B,4,0.05315338042542495,0.0399002555787235
+Farmers Savings Bank & Trust,Under $250M,0,,
+Farmers Savings Bank & Trust,$250M–$500M,0,,
+Farmers Savings Bank & Trust,$500M–$1B,0,,
+Farmers Savings Bank & Trust,Over $1B,4,0.0228226821202893,0.0150357920576819
+Farmers State Bank,Under $250M,0,,
+Farmers State Bank,$250M–$500M,0,,
+Farmers State Bank,$500M–$1B,0,,
+Farmers State Bank,Over $1B,4,0.039124680574637576,0.0236903607465333
+Farmers State Bank & Trust Co.,Under $250M,0,,
+Farmers State Bank & Trust Co.,$250M–$500M,0,,
+Farmers State Bank & Trust Co.,$500M–$1B,0,,
+Farmers State Bank & Trust Co.,Over $1B,4,0.06464147615555903,0.0462982735138525
+"Farmers State Bank of Alto Pass, Ill.",Under $250M,0,,
+"Farmers State Bank of Alto Pass, Ill.",$250M–$500M,0,,
+"Farmers State Bank of Alto Pass, Ill.",$500M–$1B,0,,
+"Farmers State Bank of Alto Pass, Ill.",Over $1B,4,0.03842889983551885,0.0340127392938317
+Farmers State Bank of Canton,Under $250M,0,,
+Farmers State Bank of Canton,$250M–$500M,0,,
+Farmers State Bank of Canton,$500M–$1B,0,,
+Farmers State Bank of Canton,Over $1B,4,0.03874616729506372,0.033853627479754
+Farmers State Bank of Emden,Under $250M,0,,
+Farmers State Bank of Emden,$250M–$500M,0,,
+Farmers State Bank of Emden,$500M–$1B,0,,
+Farmers State Bank of Emden,Over $1B,4,0.0176507380314674,0.0115595931097976
+Farmers State Bank of Underwood,Under $250M,0,,
+Farmers State Bank of Underwood,$250M–$500M,0,,
+Farmers State Bank of Underwood,$500M–$1B,0,,
+Farmers State Bank of Underwood,Over $1B,4,0.08731931307044788,0.0801985530650993
+Farmers and Merchants Savings Bank,Under $250M,0,,
+Farmers and Merchants Savings Bank,$250M–$500M,0,,
+Farmers and Merchants Savings Bank,$500M–$1B,0,,
+Farmers and Merchants Savings Bank,Over $1B,4,0.024527856951158576,0.0214724632678119
+Farmers and Merchants State Bank of Alpha,Under $250M,0,,
+Farmers and Merchants State Bank of Alpha,$250M–$500M,0,,
+Farmers and Merchants State Bank of Alpha,$500M–$1B,0,,
+Farmers and Merchants State Bank of Alpha,Over $1B,4,0.27557494874000493,0.2298757947509657
+Farmers and Merchants State Bank of Bushnell,Under $250M,0,,
+Farmers and Merchants State Bank of Bushnell,$250M–$500M,0,,
+Farmers and Merchants State Bank of Bushnell,$500M–$1B,0,,
+Farmers and Merchants State Bank of Bushnell,Over $1B,4,0.1675382891237307,0.1537390012876123
+Farmers and Merchants State Bank of Pierz,Under $250M,0,,
+Farmers and Merchants State Bank of Pierz,$250M–$500M,0,,
+Farmers and Merchants State Bank of Pierz,$500M–$1B,0,,
+Farmers and Merchants State Bank of Pierz,Over $1B,4,0.042109757180914774,0.0376168819812038
+Farmers-Merchants Bank of Illinois,Under $250M,0,,
+Farmers-Merchants Bank of Illinois,$250M–$500M,0,,
+Farmers-Merchants Bank of Illinois,$500M–$1B,0,,
+Farmers-Merchants Bank of Illinois,Over $1B,4,0.10142262960898041,0.0159135888448812
+Federated Bank,Under $250M,0,,
+Federated Bank,$250M–$500M,0,,
+Federated Bank,$500M–$1B,0,,
+Federated Bank,Over $1B,4,0.10564288708849412,0.0855251350840449
+Financial Security Bank,Under $250M,0,,
+Financial Security Bank,$250M–$500M,0,,
+Financial Security Bank,$500M–$1B,0,,
+Financial Security Bank,Over $1B,4,0.036418578823979725,0.0278503251454433
+First Central Bank,Under $250M,0,,
+First Central Bank,$250M–$500M,0,,
+First Central Bank,$500M–$1B,0,,
+First Central Bank,Over $1B,4,0.050068682313291146,0.0406086438102845
+First Citizens State Bank,Under $250M,0,,
+First Citizens State Bank,$250M–$500M,0,,
+First Citizens State Bank,$500M–$1B,0,,
+First Citizens State Bank,Over $1B,4,0.05546174352025515,0.0503798020186118
+First Community Bank,Under $250M,0,,
+First Community Bank,$250M–$500M,0,,
+First Community Bank,$500M–$1B,0,,
+First Community Bank,Over $1B,4,0.042180005810238896,0.0381987044600771
+First Farmers & Merchants Bank,Under $250M,0,,
+First Farmers & Merchants Bank,$250M–$500M,0,,
+First Farmers & Merchants Bank,$500M–$1B,0,,
+First Farmers & Merchants Bank,Over $1B,4,0.03633615047471023,0.0208057511101211
+First Fidelity Bank,Under $250M,0,,
+First Fidelity Bank,$250M–$500M,0,,
+First Fidelity Bank,$500M–$1B,0,,
+First Fidelity Bank,Over $1B,4,0.03861184511479952,0.0270338846618544
+First International Bank & Trust,Under $250M,0,,
+First International Bank & Trust,$250M–$500M,0,,
+First International Bank & Trust,$500M–$1B,0,,
+First International Bank & Trust,Over $1B,4,0.02398277243055425,0.016104256005028
+First Interstate Bank,Under $250M,0,,
+First Interstate Bank,$250M–$500M,0,,
+First Interstate Bank,$500M–$1B,0,,
+First Interstate Bank,Over $1B,4,0.0309265197295169,0.0240246889189528
+First National Bank of Steeleville,Under $250M,0,,
+First National Bank of Steeleville,$250M–$500M,0,,
+First National Bank of Steeleville,$500M–$1B,0,,
+First National Bank of Steeleville,Over $1B,4,0.032669065342175126,0.0273130351341146
+First Security Bank - West,Under $250M,0,,
+First Security Bank - West,$250M–$500M,0,,
+First Security Bank - West,$500M–$1B,0,,
+First Security Bank - West,Over $1B,4,0.21160163467859733,0.1227373958567858
+First Southeast Bank,Under $250M,0,,
+First Southeast Bank,$250M–$500M,0,,
+First Southeast Bank,$500M–$1B,0,,
+First Southeast Bank,Over $1B,4,0.055734034723547876,0.0452429407837751
+First Southern Bank,Under $250M,0,,
+First Southern Bank,$250M–$500M,0,,
+First Southern Bank,$500M–$1B,0,,
+First Southern Bank,Over $1B,4,0.14046165721664228,0.0843827032935729
+First State Bank Minnesota,Under $250M,0,,
+First State Bank Minnesota,$250M–$500M,0,,
+First State Bank Minnesota,$500M–$1B,0,,
+First State Bank Minnesota,Over $1B,4,0.14385715620702347,0.1207775802229202
+First State Bank and Trust,Under $250M,0,,
+First State Bank and Trust,$250M–$500M,0,,
+First State Bank and Trust,$500M–$1B,0,,
+First State Bank and Trust,Over $1B,4,0.09214517737817884,0.0719509370599337
+First State Bank of Beecher City,Under $250M,0,,
+First State Bank of Beecher City,$250M–$500M,0,,
+First State Bank of Beecher City,$500M–$1B,0,,
+First State Bank of Beecher City,Over $1B,4,0.030366168785017925,0.0273944179837161
+First State Bank of Bigfork,Under $250M,0,,
+First State Bank of Bigfork,$250M–$500M,0,,
+First State Bank of Bigfork,$500M–$1B,0,,
+First State Bank of Bigfork,Over $1B,4,0.16301919410107507,0.1253318484265123
+First State Bank of Brownsboro,Under $250M,0,,
+First State Bank of Brownsboro,$250M–$500M,0,,
+First State Bank of Brownsboro,$500M–$1B,0,,
+First State Bank of Brownsboro,Over $1B,4,0.030104752493626975,0.0246578724664401
+First State Bank of Campbell Hill,Under $250M,0,,
+First State Bank of Campbell Hill,$250M–$500M,0,,
+First State Bank of Campbell Hill,$500M–$1B,0,,
+First State Bank of Campbell Hill,Over $1B,4,0.09250326597296142,0.0825808718816653
+First State Bank of Golva,Under $250M,0,,
+First State Bank of Golva,$250M–$500M,0,,
+First State Bank of Golva,$500M–$1B,0,,
+First State Bank of Golva,Over $1B,4,0.03396305696085207,0.0183031256814949
+First State Bank of Olmsted,Under $250M,0,,
+First State Bank of Olmsted,$250M–$500M,0,,
+First State Bank of Olmsted,$500M–$1B,0,,
+First State Bank of Olmsted,Over $1B,4,0.07772269991488592,0.0604654114994508
+First State Bank of St. Peter,Under $250M,0,,
+First State Bank of St. Peter,$250M–$500M,0,,
+First State Bank of St. Peter,$500M–$1B,0,,
+First State Bank of St. Peter,Over $1B,4,0.10608679683036852,0.0574712982808153
+First State Bank of Van Orin,Under $250M,0,,
+First State Bank of Van Orin,$250M–$500M,0,,
+First State Bank of Van Orin,$500M–$1B,0,,
+First State Bank of Van Orin,Over $1B,4,0.3849323871437953,0.35829631540698
+First Trust and Savings Bank,Under $250M,0,,
+First Trust and Savings Bank,$250M–$500M,0,,
+First Trust and Savings Bank,$500M–$1B,0,,
+First Trust and Savings Bank,Over $1B,4,0.035356397351844523,0.0199405585865917
+Flatwater Bank,Under $250M,0,,
+Flatwater Bank,$250M–$500M,0,,
+Flatwater Bank,$500M–$1B,0,,
+Flatwater Bank,Over $1B,4,0.023298470628436325,0.0174227677208834
+"Frederick Community Bank, The",Under $250M,0,,
+"Frederick Community Bank, The",$250M–$500M,0,,
+"Frederick Community Bank, The",$500M–$1B,0,,
+"Frederick Community Bank, The",Over $1B,4,0.1291277201709572,0.0907306852372826
+Gates Banking and Trust Company,Under $250M,0,,
+Gates Banking and Trust Company,$250M–$500M,0,,
+Gates Banking and Trust Company,$500M–$1B,0,,
+Gates Banking and Trust Company,Over $1B,2,0.03318645689094475,0.0282921954553194
+Grand Missouri Bank,Under $250M,0,,
+Grand Missouri Bank,$250M–$500M,0,,
+Grand Missouri Bank,$500M–$1B,0,,
+Grand Missouri Bank,Over $1B,4,0.14681534746739203,0.0933778556447933
+Grand Rapids State Bank,Under $250M,0,,
+Grand Rapids State Bank,$250M–$500M,0,,
+Grand Rapids State Bank,$500M–$1B,0,,
+Grand Rapids State Bank,Over $1B,4,0.09790742707740595,0.0613411563301295
+Grand Rivers Community Bank,Under $250M,0,,
+Grand Rivers Community Bank,$250M–$500M,0,,
+Grand Rivers Community Bank,$500M–$1B,0,,
+Grand Rivers Community Bank,Over $1B,4,0.2888886528361134,0.1509350995248014
+Grant County Bank,Under $250M,0,,
+Grant County Bank,$250M–$500M,0,,
+Grant County Bank,$500M–$1B,0,,
+Grant County Bank,Over $1B,4,0.07228669454430835,0.0371271978582123
+Grinnell State Bank,Under $250M,0,,
+Grinnell State Bank,$250M–$500M,0,,
+Grinnell State Bank,$500M–$1B,0,,
+Grinnell State Bank,Over $1B,4,0.023166047060424525,0.0175679338710936
+Guaranty State Bank and Trust Company,Under $250M,0,,
+Guaranty State Bank and Trust Company,$250M–$500M,0,,
+Guaranty State Bank and Trust Company,$500M–$1B,0,,
+Guaranty State Bank and Trust Company,Over $1B,4,0.020417510987888826,0.0192787865748357
+Hamlin Bank and Trust Company,Under $250M,0,,
+Hamlin Bank and Trust Company,$250M–$500M,0,,
+Hamlin Bank and Trust Company,$500M–$1B,0,,
+Hamlin Bank and Trust Company,Over $1B,4,0.02688893880653355,0.0168597675964419
+Hart County Bank and Trust Company,Under $250M,0,,
+Hart County Bank and Trust Company,$250M–$500M,0,,
+Hart County Bank and Trust Company,$500M–$1B,0,,
+Hart County Bank and Trust Company,Over $1B,4,0.23143238403380706,0.2059633432211428
+Hawthorn Bank,Under $250M,0,,
+Hawthorn Bank,$250M–$500M,0,,
+Hawthorn Bank,$500M–$1B,0,,
+Hawthorn Bank,Over $1B,4,0.0284728368951266,0.0160318234047714
+Hometown Community Bank,Under $250M,0,,
+Hometown Community Bank,$250M–$500M,0,,
+Hometown Community Bank,$500M–$1B,0,,
+Hometown Community Bank,Over $1B,4,0.06631197584385262,0.0481255277369839
+Horatio State Bank,Under $250M,0,,
+Horatio State Bank,$250M–$500M,0,,
+Horatio State Bank,$500M–$1B,0,,
+Horatio State Bank,Over $1B,4,0.0596469795228261,0.0563237803324752
+Horicon Bank,Under $250M,0,,
+Horicon Bank,$250M–$500M,0,,
+Horicon Bank,$500M–$1B,0,,
+Horicon Bank,Over $1B,4,0.025833133104742775,0.022906610030027
+Illini State Bank,Under $250M,0,,
+Illini State Bank,$250M–$500M,0,,
+Illini State Bank,$500M–$1B,0,,
+Illini State Bank,Over $1B,4,0.053879343508639,0.0503663281525934
+Independence State Bank,Under $250M,0,,
+Independence State Bank,$250M–$500M,0,,
+Independence State Bank,$500M–$1B,0,,
+Independence State Bank,Over $1B,4,0.10680123942409947,0.0954020889111073
+Iowa State Bank,Under $250M,0,,
+Iowa State Bank,$250M–$500M,0,,
+Iowa State Bank,$500M–$1B,0,,
+Iowa State Bank,Over $1B,4,0.04862021704338245,0.0381445340140773
+Ipava State Bank,Under $250M,0,,
+Ipava State Bank,$250M–$500M,0,,
+Ipava State Bank,$500M–$1B,0,,
+Ipava State Bank,Over $1B,4,0.07544312319009559,0.0459437992456464
+Isabella Bank,Under $250M,0,,
+Isabella Bank,$250M–$500M,0,,
+Isabella Bank,$500M–$1B,0,,
+Isabella Bank,Over $1B,4,0.038861983259597624,0.0171316332640834
+Janesville State Bank,Under $250M,0,,
+Janesville State Bank,$250M–$500M,0,,
+Janesville State Bank,$500M–$1B,0,,
+Janesville State Bank,Over $1B,4,0.09323729512153733,0.0778009552967023
+"Jonestown Bank and Trust Company, of Jonestown, Pennsylvania",Under $250M,0,,
+"Jonestown Bank and Trust Company, of Jonestown, Pennsylvania",$250M–$500M,0,,
+"Jonestown Bank and Trust Company, of Jonestown, Pennsylvania",$500M–$1B,0,,
+"Jonestown Bank and Trust Company, of Jonestown, Pennsylvania",Over $1B,4,0.060594537006993826,0.0391646359154917
+Lake Central Bank,Under $250M,0,,
+Lake Central Bank,$250M–$500M,0,,
+Lake Central Bank,$500M–$1B,0,,
+Lake Central Bank,Over $1B,4,0.022549216217979274,0.0199220100970178
+Lake Region Bank,Under $250M,0,,
+Lake Region Bank,$250M–$500M,0,,
+Lake Region Bank,$500M–$1B,0,,
+Lake Region Bank,Over $1B,4,0.09700721968264525,0.0810561852580561
+Legence Bank,Under $250M,0,,
+Legence Bank,$250M–$500M,0,,
+Legence Bank,$500M–$1B,0,,
+Legence Bank,Over $1B,4,0.0334815992244492,0.0215622321744818
+Leighton State Bank,Under $250M,0,,
+Leighton State Bank,$250M–$500M,0,,
+Leighton State Bank,$500M–$1B,0,,
+Leighton State Bank,Over $1B,4,0.03650227628223075,0.029722133605231
+Liberty Trust & Savings Bank,Under $250M,0,,
+Liberty Trust & Savings Bank,$250M–$500M,0,,
+Liberty Trust & Savings Bank,$500M–$1B,0,,
+Liberty Trust & Savings Bank,Over $1B,4,0.07062661073709531,0.0492970733246485
+Lindell Bank & Trust Company,Under $250M,0,,
+Lindell Bank & Trust Company,$250M–$500M,0,,
+Lindell Bank & Trust Company,$500M–$1B,0,,
+Lindell Bank & Trust Company,Over $1B,4,0.017724883021354276,0.0141579158633265
+Longview Community Bank,Under $250M,0,,
+Longview Community Bank,$250M–$500M,0,,
+Longview Community Bank,$500M–$1B,0,,
+Longview Community Bank,Over $1B,4,0.2468303729893523,0.2054813315587837
+Lowry State Bank,Under $250M,0,,
+Lowry State Bank,$250M–$500M,0,,
+Lowry State Bank,$500M–$1B,0,,
+Lowry State Bank,Over $1B,4,0.04123554804653992,0.0285093637475487
+Mabrey Bank,Under $250M,0,,
+Mabrey Bank,$250M–$500M,0,,
+Mabrey Bank,$500M–$1B,0,,
+Mabrey Bank,Over $1B,4,0.08012340782755314,0.0675695187616016
+McClave State Bank,Under $250M,0,,
+McClave State Bank,$250M–$500M,0,,
+McClave State Bank,$500M–$1B,0,,
+McClave State Bank,Over $1B,4,0.0444354400102603,0.0254150799530078
+McGehee Bank,Under $250M,0,,
+McGehee Bank,$250M–$500M,0,,
+McGehee Bank,$500M–$1B,0,,
+McGehee Bank,Over $1B,4,0.03104332648888515,0.0268144757230669
+Merchants State Bank,Under $250M,0,,
+Merchants State Bank,$250M–$500M,0,,
+Merchants State Bank,$500M–$1B,0,,
+Merchants State Bank,Over $1B,4,0.02065764015465865,0.0144401656783606
+Middletown State Bank,Under $250M,0,,
+Middletown State Bank,$250M–$500M,0,,
+Middletown State Bank,$500M–$1B,0,,
+Middletown State Bank,Over $1B,4,0.025795546268151698,0.0210087158830903
+Midland States Bank,Under $250M,0,,
+Midland States Bank,$250M–$500M,0,,
+Midland States Bank,$500M–$1B,0,,
+Midland States Bank,Over $1B,4,0.02255926608777575,0.0210677132094831
+Midwest BankCentre,Under $250M,0,,
+Midwest BankCentre,$250M–$500M,0,,
+Midwest BankCentre,$500M–$1B,0,,
+Midwest BankCentre,Over $1B,4,0.05397874195018153,0.0450551188470879
+Mifflinburg Bank and Trust Company,Under $250M,0,,
+Mifflinburg Bank and Trust Company,$250M–$500M,0,,
+Mifflinburg Bank and Trust Company,$500M–$1B,0,,
+Mifflinburg Bank and Trust Company,Over $1B,4,0.05573548445702027,0.0512760101124249
+Mount Vernon Bank and Trust Company,Under $250M,0,,
+Mount Vernon Bank and Trust Company,$250M–$500M,0,,
+Mount Vernon Bank and Trust Company,$500M–$1B,0,,
+Mount Vernon Bank and Trust Company,Over $1B,4,0.0429672446231582,0.0395558129465268
+Murphy-Wall State Bank and Trust Company,Under $250M,0,,
+Murphy-Wall State Bank and Trust Company,$250M–$500M,0,,
+Murphy-Wall State Bank and Trust Company,$500M–$1B,0,,
+Murphy-Wall State Bank and Trust Company,Over $1B,4,0.0691608069722921,0.0489903707184447
+National Exchange Bank and Trust,Under $250M,0,,
+National Exchange Bank and Trust,$250M–$500M,0,,
+National Exchange Bank and Trust,$500M–$1B,0,,
+National Exchange Bank and Trust,Over $1B,4,0.07983407100420856,0.0585162853775398
+Northview Bank,Under $250M,0,,
+Northview Bank,$250M–$500M,0,,
+Northview Bank,$500M–$1B,0,,
+Northview Bank,Over $1B,4,0.03222007873427288,0.0128377234206685
+Oakdale State Bank,Under $250M,0,,
+Oakdale State Bank,$250M–$500M,0,,
+Oakdale State Bank,$500M–$1B,0,,
+Oakdale State Bank,Over $1B,4,0.17325640060068037,0.1357322974389796
+Oakwood Bank,Under $250M,0,,
+Oakwood Bank,$250M–$500M,0,,
+Oakwood Bank,$500M–$1B,0,,
+Oakwood Bank,Over $1B,4,0.14423782600272053,0.1268091183289783
+Ohnward Bank & Trust,Under $250M,0,,
+Ohnward Bank & Trust,$250M–$500M,0,,
+Ohnward Bank & Trust,$500M–$1B,0,,
+Ohnward Bank & Trust,Over $1B,4,0.03624057099322822,0.027596823622406
+Oostburg State Bank,Under $250M,0,,
+Oostburg State Bank,$250M–$500M,0,,
+Oostburg State Bank,$500M–$1B,0,,
+Oostburg State Bank,Over $1B,4,0.029603971256620447,0.0217826976704779
+Peapack Private Bank & Trust,Under $250M,0,,
+Peapack Private Bank & Trust,$250M–$500M,0,,
+Peapack Private Bank & Trust,$500M–$1B,0,,
+Peapack Private Bank & Trust,Over $1B,4,0.038821901177379145,0.0343713131185089
+Peoples State Bank,Under $250M,0,,
+Peoples State Bank,$250M–$500M,0,,
+Peoples State Bank,$500M–$1B,0,,
+Peoples State Bank,Over $1B,4,0.1534208579881043,0.1395962321595983
+Peoples State Bank of Colfax,Under $250M,0,,
+Peoples State Bank of Colfax,$250M–$500M,0,,
+Peoples State Bank of Colfax,$500M–$1B,0,,
+Peoples State Bank of Colfax,Over $1B,4,0.24465954307855617,0.2196726291157551
+Peoples State Bank of Hallettsville,Under $250M,0,,
+Peoples State Bank of Hallettsville,$250M–$500M,0,,
+Peoples State Bank of Hallettsville,$500M–$1B,0,,
+Peoples State Bank of Hallettsville,Over $1B,4,0.2907695422892628,0.2223223585661835
+Peoples State Bank of Plainview,Under $250M,0,,
+Peoples State Bank of Plainview,$250M–$500M,0,,
+Peoples State Bank of Plainview,$500M–$1B,0,,
+Peoples State Bank of Plainview,Over $1B,4,0.030291167830336523,0.0255606125346454
+Peoples State Bank of Velva,Under $250M,0,,
+Peoples State Bank of Velva,$250M–$500M,0,,
+Peoples State Bank of Velva,$500M–$1B,0,,
+Peoples State Bank of Velva,Over $1B,4,0.0243317979359601,0.0217312034860082
+Peoples Trust and Savings Bank,Under $250M,0,,
+Peoples Trust and Savings Bank,$250M–$500M,0,,
+Peoples Trust and Savings Bank,$500M–$1B,0,,
+Peoples Trust and Savings Bank,Over $1B,3,0.05301315911042117,0.0516457905525243
+"Petefish, Skiles & Co.",Under $250M,0,,
+"Petefish, Skiles & Co.",$250M–$500M,0,,
+"Petefish, Skiles & Co.",$500M–$1B,0,,
+"Petefish, Skiles & Co.",Over $1B,4,0.09874701175990895,0.0587497792333581
+Pine River State Bank,Under $250M,0,,
+Pine River State Bank,$250M–$500M,0,,
+Pine River State Bank,$500M–$1B,0,,
+Pine River State Bank,Over $1B,4,0.1400124188645896,0.1308055026510701
+Pinnacle Bank,Under $250M,0,,
+Pinnacle Bank,$250M–$500M,0,,
+Pinnacle Bank,$500M–$1B,0,,
+Pinnacle Bank,Over $1B,4,0.03725289616110785,0.0164091985593935
+Planters and Citizens Bank,Under $250M,0,,
+Planters and Citizens Bank,$250M–$500M,0,,
+Planters and Citizens Bank,$500M–$1B,0,,
+Planters and Citizens Bank,Over $1B,4,0.05839167640515315,0.0458960776766854
+Preferred Bank,Under $250M,0,,
+Preferred Bank,$250M–$500M,0,,
+Preferred Bank,$500M–$1B,0,,
+Preferred Bank,Over $1B,4,0.12015126752470422,0.084442748686865
+Prime Security Bank,Under $250M,0,,
+Prime Security Bank,$250M–$500M,0,,
+Prime Security Bank,$500M–$1B,0,,
+Prime Security Bank,Over $1B,4,0.060649819573812096,0.0543309788448962
+PrinsBank,Under $250M,0,,
+PrinsBank,$250M–$500M,0,,
+PrinsBank,$500M–$1B,0,,
+PrinsBank,Over $1B,4,0.04440339873906773,0.043340938304763
+Produce State Bank,Under $250M,0,,
+Produce State Bank,$250M–$500M,0,,
+Produce State Bank,$500M–$1B,0,,
+Produce State Bank,Over $1B,4,0.10463763295916192,0.074940672346065
+Randall State Bank,Under $250M,0,,
+Randall State Bank,$250M–$500M,0,,
+Randall State Bank,$500M–$1B,0,,
+Randall State Bank,Over $1B,4,0.07097208973874683,0.0602652433323913
+Raritan State Bank,Under $250M,0,,
+Raritan State Bank,$250M–$500M,0,,
+Raritan State Bank,$500M–$1B,0,,
+Raritan State Bank,Over $1B,4,0.0361479895326927,0.029938207613047
+Riverstone Bank,Under $250M,0,,
+Riverstone Bank,$250M–$500M,0,,
+Riverstone Bank,$500M–$1B,0,,
+Riverstone Bank,Over $1B,4,0.016715330892888874,0.0118783688920242
+Root River State Bank,Under $250M,0,,
+Root River State Bank,$250M–$500M,0,,
+Root River State Bank,$500M–$1B,0,,
+Root River State Bank,Over $1B,4,0.0740324533576912,0.0596721937570075
+S&T Bank,Under $250M,0,,
+S&T Bank,$250M–$500M,0,,
+S&T Bank,$500M–$1B,0,,
+S&T Bank,Over $1B,4,0.03232731963992362,0.0307807178910682
+Sanborn Savings Bank,Under $250M,0,,
+Sanborn Savings Bank,$250M–$500M,0,,
+Sanborn Savings Bank,$500M–$1B,0,,
+Sanborn Savings Bank,Over $1B,4,0.12716829961799436,0.115999146733051
+Schertz Bank & Trust,Under $250M,0,,
+Schertz Bank & Trust,$250M–$500M,0,,
+Schertz Bank & Trust,$500M–$1B,0,,
+Schertz Bank & Trust,Over $1B,4,0.07532018030673444,0.0310700236910258
+Security Bank,Under $250M,0,,
+Security Bank,$250M–$500M,0,,
+Security Bank,$500M–$1B,0,,
+Security Bank,Over $1B,4,0.0261701022343288,0.0181635136513549
+Security Bank Minnesota,Under $250M,0,,
+Security Bank Minnesota,$250M–$500M,0,,
+Security Bank Minnesota,$500M–$1B,0,,
+Security Bank Minnesota,Over $1B,4,0.03736589111301737,0.0323610482717421
+Security State Bank of Hibbing,Under $250M,0,,
+Security State Bank of Hibbing,$250M–$500M,0,,
+Security State Bank of Hibbing,$500M–$1B,0,,
+Security State Bank of Hibbing,Over $1B,4,0.1228907958748669,0.0797059584238054
+Security State Bank of Marine,Under $250M,0,,
+Security State Bank of Marine,$250M–$500M,0,,
+Security State Bank of Marine,$500M–$1B,0,,
+Security State Bank of Marine,Over $1B,4,0.11263255359542862,0.1019890175772609
+Security State Bank of Oklee,Under $250M,0,,
+Security State Bank of Oklee,$250M–$500M,0,,
+Security State Bank of Oklee,$500M–$1B,0,,
+Security State Bank of Oklee,Over $1B,4,0.49942543332061573,0.4692181230365588
+Sherburne State Bank,Under $250M,0,,
+Sherburne State Bank,$250M–$500M,0,,
+Sherburne State Bank,$500M–$1B,0,,
+Sherburne State Bank,Over $1B,4,0.05833190652191593,0.0336236609132904
+SimplyBank.,Under $250M,0,,
+SimplyBank.,$250M–$500M,0,,
+SimplyBank.,$500M–$1B,0,,
+SimplyBank.,Over $1B,4,0.1020446488291447,0.0862608361723974
+Somerset Trust Company,Under $250M,0,,
+Somerset Trust Company,$250M–$500M,0,,
+Somerset Trust Company,$500M–$1B,0,,
+Somerset Trust Company,Over $1B,4,0.023703584924497548,0.0212607444901193
+St. Clair County State Bank,Under $250M,0,,
+St. Clair County State Bank,$250M–$500M,0,,
+St. Clair County State Bank,$500M–$1B,0,,
+St. Clair County State Bank,Over $1B,4,0.18084105897835173,0.1496868013492955
+State Bank Financial,Under $250M,0,,
+State Bank Financial,$250M–$500M,0,,
+State Bank Financial,$500M–$1B,0,,
+State Bank Financial,Over $1B,4,0.06802773428709442,0.0425752686119643
+State Bank of Bement,Under $250M,0,,
+State Bank of Bement,$250M–$500M,0,,
+State Bank of Bement,$500M–$1B,0,,
+State Bank of Bement,Over $1B,4,0.12997258420636787,0.1210755834405831
+State Bank of Graymont,Under $250M,0,,
+State Bank of Graymont,$250M–$500M,0,,
+State Bank of Graymont,$500M–$1B,0,,
+State Bank of Graymont,Over $1B,4,0.037764582236068545,0.0260082597415661
+State Bank of Industry,Under $250M,0,,
+State Bank of Industry,$250M–$500M,0,,
+State Bank of Industry,$500M–$1B,0,,
+State Bank of Industry,Over $1B,4,0.20531058705568733,0.1611623997779674
+State Bank of Jeffers,Under $250M,0,,
+State Bank of Jeffers,$250M–$500M,0,,
+State Bank of Jeffers,$500M–$1B,0,,
+State Bank of Jeffers,Over $1B,4,0.057195784788969944,0.0362535301443723
+State Bank of Missouri,Under $250M,0,,
+State Bank of Missouri,$250M–$500M,0,,
+State Bank of Missouri,$500M–$1B,0,,
+State Bank of Missouri,Over $1B,4,0.12406812744645965,0.106598203555756
+State Bank of Odell,Under $250M,0,,
+State Bank of Odell,$250M–$500M,0,,
+State Bank of Odell,$500M–$1B,0,,
+State Bank of Odell,Over $1B,4,0.2606674983004434,0.2336584912403129
+Stearns Bank National Association,Under $250M,0,,
+Stearns Bank National Association,$250M–$500M,0,,
+Stearns Bank National Association,$500M–$1B,0,,
+Stearns Bank National Association,Over $1B,2,0.2829332570418191,0.2597059617300769
+Success Bank,Under $250M,0,,
+Success Bank,$250M–$500M,0,,
+Success Bank,$500M–$1B,0,,
+Success Bank,Over $1B,4,0.051799974293111097,0.0317320079925036
+TBO Bank,Under $250M,0,,
+TBO Bank,$250M–$500M,0,,
+TBO Bank,$500M–$1B,0,,
+TBO Bank,Over $1B,4,0.12605864665507024,0.0607633997967837
+Texas Champion Bank,Under $250M,0,,
+Texas Champion Bank,$250M–$500M,0,,
+Texas Champion Bank,$500M–$1B,0,,
+Texas Champion Bank,Over $1B,4,0.1412762867151178,0.1274211799394514
+The Andover Bank,Under $250M,0,,
+The Andover Bank,$250M–$500M,0,,
+The Andover Bank,$500M–$1B,0,,
+The Andover Bank,Over $1B,4,0.048649070754747274,0.0416676402845051
+The Baldwin State Bank,Under $250M,0,,
+The Baldwin State Bank,$250M–$500M,0,,
+The Baldwin State Bank,$500M–$1B,0,,
+The Baldwin State Bank,Over $1B,4,0.12922301267804606,0.1151136777865494
+The Bank of Fayette County,Under $250M,0,,
+The Bank of Fayette County,$250M–$500M,0,,
+The Bank of Fayette County,$500M–$1B,0,,
+The Bank of Fayette County,Over $1B,4,0.0753968325531678,0.0650925267899339
+The Bank of Herrin,Under $250M,0,,
+The Bank of Herrin,$250M–$500M,0,,
+The Bank of Herrin,$500M–$1B,0,,
+The Bank of Herrin,Over $1B,4,0.08163200658639583,0.0573716007570988
+The Bank of New Glarus,Under $250M,0,,
+The Bank of New Glarus,$250M–$500M,0,,
+The Bank of New Glarus,$500M–$1B,0,,
+The Bank of New Glarus,Over $1B,4,0.01955273513948455,0.018123432356409
+The Bank of Steinauer,Under $250M,0,,
+The Bank of Steinauer,$250M–$500M,0,,
+The Bank of Steinauer,$500M–$1B,0,,
+The Bank of Steinauer,Over $1B,4,0.2117347418719837,0.1784517273885563
+The Bank of Versailles,Under $250M,0,,
+The Bank of Versailles,$250M–$500M,0,,
+The Bank of Versailles,$500M–$1B,0,,
+The Bank of Versailles,Over $1B,4,0.12892353170276383,0.1243886915345827
+The Citizens Bank,Under $250M,0,,
+The Citizens Bank,$250M–$500M,0,,
+The Citizens Bank,$500M–$1B,0,,
+The Citizens Bank,Over $1B,4,0.1028549554056723,0.0589652609330749
+The Citizens Bank Company,Under $250M,0,,
+The Citizens Bank Company,$250M–$500M,0,,
+The Citizens Bank Company,$500M–$1B,0,,
+The Citizens Bank Company,Over $1B,4,0.0261067500569169,0.0230341275066844
+The Citizens Bank of Swainsboro,Under $250M,0,,
+The Citizens Bank of Swainsboro,$250M–$500M,0,,
+The Citizens Bank of Swainsboro,$500M–$1B,0,,
+The Citizens Bank of Swainsboro,Over $1B,4,0.1502078703234485,0.1313344262077467
+The Clay City Banking Co.,Under $250M,0,,
+The Clay City Banking Co.,$250M–$500M,0,,
+The Clay City Banking Co.,$500M–$1B,0,,
+The Clay City Banking Co.,Over $1B,4,0.045430516515107176,0.0416819416739498
+The Commercial Bank of Grayson,Under $250M,0,,
+The Commercial Bank of Grayson,$250M–$500M,0,,
+The Commercial Bank of Grayson,$500M–$1B,0,,
+The Commercial Bank of Grayson,Over $1B,4,0.0664543631279707,0.0549493191262845
+The Exchange Bank,Under $250M,0,,
+The Exchange Bank,$250M–$500M,0,,
+The Exchange Bank,$500M–$1B,0,,
+The Exchange Bank,Over $1B,4,0.095847895957725,0.0888120284991432
+The Farmers State Bank of Brush,Under $250M,0,,
+The Farmers State Bank of Brush,$250M–$500M,0,,
+The Farmers State Bank of Brush,$500M–$1B,0,,
+The Farmers State Bank of Brush,Over $1B,4,0.06258059764179857,0.0593261962319029
+The Farmers and Merchants Bank,Under $250M,0,,
+The Farmers and Merchants Bank,$250M–$500M,0,,
+The Farmers and Merchants Bank,$500M–$1B,0,,
+The Farmers and Merchants Bank,Over $1B,4,0.053723330821816774,0.0483230766857755
+The Fidelity State Bank and Trust Company,Under $250M,0,,
+The Fidelity State Bank and Trust Company,$250M–$500M,0,,
+The Fidelity State Bank and Trust Company,$500M–$1B,0,,
+The Fidelity State Bank and Trust Company,Over $1B,4,0.4814308015066468,0.4674479868620374
+The First National Bank of Izard County,Under $250M,0,,
+The First National Bank of Izard County,$250M–$500M,0,,
+The First National Bank of Izard County,$500M–$1B,0,,
+The First National Bank of Izard County,Over $1B,4,0.14962030184794478,0.1472814424042277
+The First State Bank,Under $250M,0,,
+The First State Bank,$250M–$500M,0,,
+The First State Bank,$500M–$1B,0,,
+The First State Bank,Over $1B,8,0.0657602424916504,0.0292254243618023
+The First State Bank of Shelby,Under $250M,0,,
+The First State Bank of Shelby,$250M–$500M,0,,
+The First State Bank of Shelby,$500M–$1B,0,,
+The First State Bank of Shelby,Over $1B,4,0.019884831385155052,0.0144971195728273
+"The First Trust and Savings Bank of Watseka, Illinois",Under $250M,0,,
+"The First Trust and Savings Bank of Watseka, Illinois",$250M–$500M,0,,
+"The First Trust and Savings Bank of Watseka, Illinois",$500M–$1B,0,,
+"The First Trust and Savings Bank of Watseka, Illinois",Over $1B,4,0.15867313081602769,0.1013924626436102
+The Gifford State Bank,Under $250M,0,,
+The Gifford State Bank,$250M–$500M,0,,
+The Gifford State Bank,$500M–$1B,0,,
+The Gifford State Bank,Over $1B,4,0.08741328614319008,0.0239799661421394
+The Goose River Bank,Under $250M,0,,
+The Goose River Bank,$250M–$500M,0,,
+The Goose River Bank,$500M–$1B,0,,
+The Goose River Bank,Over $1B,4,0.0685039600097549,0.0428083197981512
+The Gunnison Bank and Trust Company,Under $250M,0,,
+The Gunnison Bank and Trust Company,$250M–$500M,0,,
+The Gunnison Bank and Trust Company,$500M–$1B,0,,
+The Gunnison Bank and Trust Company,Over $1B,4,0.04635562693390102,0.0437818187240156
+The Iuka State Bank,Under $250M,0,,
+The Iuka State Bank,$250M–$500M,0,,
+The Iuka State Bank,$500M–$1B,0,,
+The Iuka State Bank,Over $1B,4,0.058097115491297174,0.0522201317017289
+The Kansas State Bank,Under $250M,0,,
+The Kansas State Bank,$250M–$500M,0,,
+The Kansas State Bank,$500M–$1B,0,,
+The Kansas State Bank,Over $1B,4,0.03607137055626835,0.0339121004468216
+The Merchants & Planters Bank,Under $250M,0,,
+The Merchants & Planters Bank,$250M–$500M,0,,
+The Merchants & Planters Bank,$500M–$1B,0,,
+The Merchants & Planters Bank,Over $1B,4,0.035037060373485696,0.025108965632493
+The Miners State Bank,Under $250M,0,,
+The Miners State Bank,$250M–$500M,0,,
+The Miners State Bank,$500M–$1B,0,,
+The Miners State Bank,Over $1B,4,0.050076995128536,0.027919176703351
+The Muncy Bank and Trust Company,Under $250M,0,,
+The Muncy Bank and Trust Company,$250M–$500M,0,,
+The Muncy Bank and Trust Company,$500M–$1B,0,,
+The Muncy Bank and Trust Company,Over $1B,3,0.0202491792253451,0.0153581098903014
+The Napoleon State Bank,Under $250M,0,,
+The Napoleon State Bank,$250M–$500M,0,,
+The Napoleon State Bank,$500M–$1B,0,,
+The Napoleon State Bank,Over $1B,4,0.15850489356945938,0.1383008793550293
+The Northern State Bank of Gonvick,Under $250M,0,,
+The Northern State Bank of Gonvick,$250M–$500M,0,,
+The Northern State Bank of Gonvick,$500M–$1B,0,,
+The Northern State Bank of Gonvick,Over $1B,4,0.6215764820972078,0.5767503456685568
+The Old Fort Banking Company,Under $250M,0,,
+The Old Fort Banking Company,$250M–$500M,0,,
+The Old Fort Banking Company,$500M–$1B,0,,
+The Old Fort Banking Company,Over $1B,4,0.10097370119464208,0.0829460930977483
+The Portage County Bank,Under $250M,0,,
+The Portage County Bank,$250M–$500M,0,,
+The Portage County Bank,$500M–$1B,0,,
+The Portage County Bank,Over $1B,4,0.14224464472502693,0.0735076092930202
+The Shelby State Bank,Under $250M,0,,
+The Shelby State Bank,$250M–$500M,0,,
+The Shelby State Bank,$500M–$1B,0,,
+The Shelby State Bank,Over $1B,4,0.018854452550091126,0.0153000324961239
+The State Bank of Bern,Under $250M,0,,
+The State Bank of Bern,$250M–$500M,0,,
+The State Bank of Bern,$500M–$1B,0,,
+The State Bank of Bern,Over $1B,4,0.021962947175773677,0.0196913952526925
+The Village Bank,Under $250M,0,,
+The Village Bank,$250M–$500M,0,,
+The Village Bank,$500M–$1B,0,,
+The Village Bank,Over $1B,2,0.24784109201158838,0.216202614737147
+Tompkins State Bank,Under $250M,0,,
+Tompkins State Bank,$250M–$500M,0,,
+Tompkins State Bank,$500M–$1B,0,,
+Tompkins State Bank,Over $1B,4,0.041052324240755944,0.0178275344818327
+Town & Country Bank Midwest,Under $250M,0,,
+Town & Country Bank Midwest,$250M–$500M,0,,
+Town & Country Bank Midwest,$500M–$1B,0,,
+Town & Country Bank Midwest,Over $1B,4,0.1900162747177176,0.1605349193764863
+"Transpecos Banks, SSB",Under $250M,0,,
+"Transpecos Banks, SSB",$250M–$500M,0,,
+"Transpecos Banks, SSB",$500M–$1B,0,,
+"Transpecos Banks, SSB",Over $1B,4,0.2045255479768934,0.1702101744747331
+UNICO Bank,Under $250M,0,,
+UNICO Bank,$250M–$500M,0,,
+UNICO Bank,$500M–$1B,0,,
+UNICO Bank,Over $1B,4,0.03252674006202502,0.025545713700942
+United Community Bank of North Dakota,Under $250M,0,,
+United Community Bank of North Dakota,$250M–$500M,0,,
+United Community Bank of North Dakota,$500M–$1B,0,,
+United Community Bank of North Dakota,Over $1B,3,0.04244768663494833,0.034972035720736
+United Minnesota Bank,Under $250M,0,,
+United Minnesota Bank,$250M–$500M,0,,
+United Minnesota Bank,$500M–$1B,0,,
+United Minnesota Bank,Over $1B,4,0.30995495477077606,0.2998842271039975
+United Prairie Bank,Under $250M,0,,
+United Prairie Bank,$250M–$500M,0,,
+United Prairie Bank,$500M–$1B,0,,
+United Prairie Bank,Over $1B,4,0.024031661039920674,0.0180436678245896
+Upper Peninsula State Bank,Under $250M,0,,
+Upper Peninsula State Bank,$250M–$500M,0,,
+Upper Peninsula State Bank,$500M–$1B,0,,
+Upper Peninsula State Bank,Over $1B,4,0.0825935922733754,0.0638654659700246
+Vermillion State Bank,Under $250M,0,,
+Vermillion State Bank,$250M–$500M,0,,
+Vermillion State Bank,$500M–$1B,0,,
+Vermillion State Bank,Over $1B,4,0.08374220794332135,0.0524141424053772
+VersaBank USA National Association,Under $250M,0,,
+VersaBank USA National Association,$250M–$500M,0,,
+VersaBank USA National Association,$500M–$1B,0,,
+VersaBank USA National Association,Over $1B,4,0.17293958555408512,0.1364707174887817
+Waterman Bank,Under $250M,0,,
+Waterman Bank,$250M–$500M,0,,
+Waterman Bank,$500M–$1B,0,,
+Waterman Bank,Over $1B,4,0.04689591466335755,0.0129865097217999
+Waumandee State Bank,Under $250M,0,,
+Waumandee State Bank,$250M–$500M,0,,
+Waumandee State Bank,$500M–$1B,0,,
+Waumandee State Bank,Over $1B,4,0.0506593702521196,0.0399185607644983
+West Central Bank,Under $250M,0,,
+West Central Bank,$250M–$500M,0,,
+West Central Bank,$500M–$1B,0,,
+West Central Bank,Over $1B,4,0.03334927951319898,0.0164536620054187
+Winnsboro State Bank & Trust Company,Under $250M,0,,
+Winnsboro State Bank & Trust Company,$250M–$500M,0,,
+Winnsboro State Bank & Trust Company,$500M–$1B,0,,
+Winnsboro State Bank & Trust Company,Over $1B,4,0.09101692621389448,0.058357487436926
+Wood & Huston Bank,Under $250M,0,,
+Wood & Huston Bank,$250M–$500M,0,,
+Wood & Huston Bank,$500M–$1B,0,,
+Wood & Huston Bank,Over $1B,4,0.0255264867006438,0.0170210773825552
+Woodford State Bank,Under $250M,0,,
+Woodford State Bank,$250M–$500M,0,,
+Woodford State Bank,$500M–$1B,0,,
+Woodford State Bank,Over $1B,4,0.02888176657898375,0.0263042132603045

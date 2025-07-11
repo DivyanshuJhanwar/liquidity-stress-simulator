@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+prophet
+matplotlib
+seaborn
+plotly
+streamlit
+yfinance
+fredapi
+openpyxl
+xlrd
+pulp
+jupyter
+-e .

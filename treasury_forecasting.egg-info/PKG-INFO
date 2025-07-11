@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: treasury_forecasting
+Version: 0.1
+Summary: ML-powered forecasting and liquidity optimization for treasury ops
+Author: Divyanshu
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: statsmodels
+Requires-Dist: prophet
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: plotly
+Requires-Dist: streamlit
+Requires-Dist: yfinance
+Requires-Dist: fredapi
+Requires-Dist: openpyxl
+Requires-Dist: xlrd
+Requires-Dist: pulp
+Requires-Dist: jupyter
